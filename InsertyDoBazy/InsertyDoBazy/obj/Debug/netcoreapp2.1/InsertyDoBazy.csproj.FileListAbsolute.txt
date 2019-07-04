@@ -1,0 +1,11 @@
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\bin\Debug\netcoreapp2.1\InsertyDoBazy.deps.json
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\bin\Debug\netcoreapp2.1\InsertyDoBazy.runtimeconfig.json
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\bin\Debug\netcoreapp2.1\InsertyDoBazy.runtimeconfig.dev.json
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\bin\Debug\netcoreapp2.1\InsertyDoBazy.dll
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\bin\Debug\netcoreapp2.1\InsertyDoBazy.pdb
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.csprojAssemblyReference.cache
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.csproj.CoreCompileInputs.cache
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.AssemblyInfoInputs.cache
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.AssemblyInfo.cs
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.dll
+C:\Users\ildef\source\repos\InsertyDoBazy\InsertyDoBazy\obj\Debug\netcoreapp2.1\InsertyDoBazy.pdb
