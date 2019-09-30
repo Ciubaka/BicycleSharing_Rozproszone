@@ -1,0 +1,20 @@
+[
+	{
+		"nazwa": "idealny stan"
+	},
+	{
+		"nazwa": "drobny defekt"
+	},
+	{
+		"nazwa": "male uszkodzenie"
+	},
+	{
+		"nazwa": "powazny defekt"
+	},
+	{
+		"nazwa": "duze uszkodzenie"
+	},
+	{
+		"nazwa": "rower zepsuty"
+	}
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "nazwa": "greenFURNAFIX",
+    "miastoId": 380
+  },
+  {
+    "nazwa": "greenOTHERSIDE",
+    "miastoId": 757
+  },
+  {
+    "nazwa": "brownPEARLESSA",
+    "miastoId": 784
+  },
+  {
+    "nazwa": "brownPREMIANT",
+    "miastoId": 377
+  },
+  {
+    "nazwa": "greenCINESANCT",
+    "miastoId": 548
+  },
+  {
+    "nazwa": "blueWRAPTURE",
+    "miastoId": 95
+  },
+  {
+    "nazwa": "blueESCENTA",
+    "miastoId": 438
+  },
+  {
+    "nazwa": "blueGADTRON",
+    "miastoId": 598
+  },
+  {
+    "nazwa": "greenBIOTICA",
+    "miastoId": 759
+  },
+  {
+    "nazwa": "blueFORTEAN",
+    "miastoId": 986
+  },
+  {
+    "nazwa": "greenSUSTENZA",
+    "miastoId": 629
+  },
+  {
+    "nazwa": "brownEMTRAC",
+    "miastoId": 682
+  },
+  {
+    "nazwa": "brownSPRINGBEE",
+    "miastoId": 215
+  },
+  {
+    "nazwa": "blueMALATHION",
+    "miastoId": 667
+  },
+  {
+    "nazwa": "greenZOGAK",
+    "miastoId": 609
+  },
+  {
+    "nazwa": "brownINFOTRIPS",
+    "miastoId": 96
+  },
+  {
+    "nazwa": "blueKENGEN",
+    "miastoId": 356
+  },
+  {
+    "nazwa": "brownGEEKOSIS",
+    "miastoId": 73
+  },
+  {
+    "nazwa": "brownMAGNEATO",
+    "miastoId": 647
+  },
+  {
+    "nazwa": "brownISBOL",
+    "miastoId": 409
+  },
+  {
+    "nazwa": "brownISOLOGICA",
+    "miastoId": 232
+  },
+  {
+    "nazwa": "brownDUOFLEX",
+    "miastoId": 4
+  },
+  {
+    "nazwa": "greenXEREX",
+    "miastoId": 681
+  },
+  {
+    "nazwa": "brownCOWTOWN",
+    "miastoId": 654
+  },
+  {
+    "nazwa": "greenZIDANT",
+    "miastoId": 559
+  },
+  {
+    "nazwa": "brownCANOPOLY",
+    "miastoId": 509
+  },
+  {
+    "nazwa": "blueOVERFORK",
+    "miastoId": 264
+  },
+  {
+    "nazwa": "brownWAZZU",
+    "miastoId": 454
+  },
+  {
+    "nazwa": "brownGEEKETRON",
+    "miastoId": 500
+  },
+  {
+    "nazwa": "greenMEMORA",
+    "miastoId": 540
+  },
+  {
+    "nazwa": "blueCONJURICA",
+    "miastoId": 457
+  },
+  {
+    "nazwa": "greenBUZZNESS",
+    "miastoId": 407
+  },
+  {
+    "nazwa": "blueEYEWAX",
+    "miastoId": 980
+  },
+  {
+    "nazwa": "brownISOSTREAM",
+    "miastoId": 924
+  },
+  {
+    "nazwa": "blueSNORUS",
+    "miastoId": 283
+  },
+  {
+    "nazwa": "greenGENMY",
+    "miastoId": 592
+  },
+  {
+    "nazwa": "brownZYPLE",
+    "miastoId": 411
+  },
+  {
+    "nazwa": "greenPAWNAGRA",
+    "miastoId": 711
+  },
+  {
+    "nazwa": "brownOHMNET",
+    "miastoId": 310
+  },
+  {
+    "nazwa": "greenNEPTIDE",
+    "miastoId": 178
+  },
+  {
+    "nazwa": "brownSENTIA",
+    "miastoId": 176
+  },
+  {
+    "nazwa": "blueSONIQUE",
+    "miastoId": 149
+  },
+  {
+    "nazwa": "brownISOLOGIX",
+    "miastoId": 713
+  },
+  {
+    "nazwa": "greenBISBA",
+    "miastoId": 969
+  },
+  {
+    "nazwa": "brownSTEELFAB",
+    "miastoId": 483
+  },
+  {
+    "nazwa": "greenBEDDER",
+    "miastoId": 477
+  },
+  {
+    "nazwa": "blueDIGIPRINT",
+    "miastoId": 802
+  },
+  {
+    "nazwa": "blueTECHADE",
+    "miastoId": 172
+  },
+  {
+    "nazwa": "brownGEOFORMA",
+    "miastoId": 432
+  },
+  {
+    "nazwa": "blueSTREZZO",
+    "miastoId": 747
+  },
+  {
+    "nazwa": "brownZILIDIUM",
+    "miastoId": 693
+  },
+  {
+    "nazwa": "greenSPORTAN",
+    "miastoId": 582
+  },
+  {
+    "nazwa": "blueBITTOR",
+    "miastoId": 775
+  },
+  {
+    "nazwa": "brownEQUITAX",
+    "miastoId": 577
+  },
+  {
+    "nazwa": "greenFUELWORKS",
+    "miastoId": 868
+  },
+  {
+    "nazwa": "greenTASMANIA",
+    "miastoId": 296
+  },
+  {
+    "nazwa": "blueCOMTRACT",
+    "miastoId": 480
+  },
+  {
+    "nazwa": "brownPASTURIA",
+    "miastoId": 61
+  },
+  {
+    "nazwa": "greenVORATAK",
+    "miastoId": 13
+  },
+  {
+    "nazwa": "blueZENTIME",
+    "miastoId": 311
+  },
+  {
+    "nazwa": "greenPHARMEX",
+    "miastoId": 971
+  },
+  {
+    "nazwa": "greenKONGLE",
+    "miastoId": 685
+  },
+  {
+    "nazwa": "brownZENTRY",
+    "miastoId": 783
+  },
+  {
+    "nazwa": "greenVENDBLEND",
+    "miastoId": 508
+  },
+  {
+    "nazwa": "blueNURPLEX",
+    "miastoId": 487
+  },
+  {
+    "nazwa": "blueCOMFIRM",
+    "miastoId": 456
+  },
+  {
+    "nazwa": "brownPROSELY",
+    "miastoId": 109
+  },
+  {
+    "nazwa": "greenDIGINETIC",
+    "miastoId": 218
+  },
+  {
+    "nazwa": "brownQUADEEBO",
+    "miastoId": 979
+  },
+  {
+    "nazwa": "blueNORALI",
+    "miastoId": 642
+  },
+  {
+    "nazwa": "brownPAPRICUT",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "blueZAYA",
+    "miastoId": 617
+  },
+  {
+    "nazwa": "brownACLIMA",
+    "miastoId": 395
+  },
+  {
+    "nazwa": "greenORONOKO",
+    "miastoId": 287
+  },
+  {
+    "nazwa": "brownMARQET",
+    "miastoId": 314
+  },
+  {
+    "nazwa": "brownPERMADYNE",
+    "miastoId": 648
+  },
+  {
+    "nazwa": "greenPROWASTE",
+    "miastoId": 241
+  },
+  {
+    "nazwa": "greenZENCO",
+    "miastoId": 792
+  },
+  {
+    "nazwa": "brownVORTEXACO",
+    "miastoId": 23
+  },
+  {
+    "nazwa": "brownKNEEDLES",
+    "miastoId": 243
+  },
+  {
+    "nazwa": "brownMAINELAND",
+    "miastoId": 885
+  },
+  {
+    "nazwa": "blueENVIRE",
+    "miastoId": 405
+  },
+  {
+    "nazwa": "bluePOLARIUM",
+    "miastoId": 215
+  },
+  {
+    "nazwa": "brownTHREDZ",
+    "miastoId": 306
+  },
+  {
+    "nazwa": "brownAQUAZURE",
+    "miastoId": 392
+  },
+  {
+    "nazwa": "brownJIMBIES",
+    "miastoId": 809
+  },
+  {
+    "nazwa": "brownQUANTASIS",
+    "miastoId": 186
+  },
+  {
+    "nazwa": "greenFUELTON",
+    "miastoId": 111
+  },
+  {
+    "nazwa": "blueENERFORCE",
+    "miastoId": 755
+  },
+  {
+    "nazwa": "blueREALYSIS",
+    "miastoId": 259
+  },
+  {
+    "nazwa": "greenOMNIGOG",
+    "miastoId": 502
+  },
+  {
+    "nazwa": "brownPRIMORDIA",
+    "miastoId": 71
+  },
+  {
+    "nazwa": "brownFOSSIEL",
+    "miastoId": 236
+  },
+  {
+    "nazwa": "blueGINKLE",
+    "miastoId": 599
+  },
+  {
+    "nazwa": "brownEWAVES",
+    "miastoId": 179
+  },
+  {
+    "nazwa": "blueCABLAM",
+    "miastoId": 273
+  },
+  {
+    "nazwa": "brownMAGMINA",
+    "miastoId": 207
+  },
+  {
+    "nazwa": "blueROTODYNE",
+    "miastoId": 759
+  },
+  {
+    "nazwa": "greenQUINEX",
+    "miastoId": 638
+  },
+  {
+    "nazwa": "brownFANGOLD",
+    "miastoId": 269
+  },
+  {
+    "nazwa": "blueAQUOAVO",
+    "miastoId": 940
+  },
+  {
+    "nazwa": "greenMEDESIGN",
+    "miastoId": 689
+  },
+  {
+    "nazwa": "blueTALKALOT",
+    "miastoId": 803
+  },
+  {
+    "nazwa": "blueGEEKY",
+    "miastoId": 798
+  },
+  {
+    "nazwa": "greenPURIA",
+    "miastoId": 377
+  },
+  {
+    "nazwa": "brownQUALITEX",
+    "miastoId": 794
+  },
+  {
+    "nazwa": "greenNETBOOK",
+    "miastoId": 608
+  },
+  {
+    "nazwa": "brownMUSANPOLY",
+    "miastoId": 65
+  },
+  {
+    "nazwa": "blueNETPLAX",
+    "miastoId": 445
+  },
+  {
+    "nazwa": "brownINDEXIA",
+    "miastoId": 787
+  },
+  {
+    "nazwa": "blueACRODANCE",
+    "miastoId": 490
+  },
+  {
+    "nazwa": "greenFROSNEX",
+    "miastoId": 651
+  },
+  {
+    "nazwa": "brownCOMCUBINE",
+    "miastoId": 25
+  },
+  {
+    "nazwa": "brownINRT",
+    "miastoId": 71
+  },
+  {
+    "nazwa": "blueZORK",
+    "miastoId": 380
+  },
+  {
+    "nazwa": "brownEXOSPEED",
+    "miastoId": 416
+  },
+  {
+    "nazwa": "blueNURALI",
+    "miastoId": 171
+  },
+  {
+    "nazwa": "greenCOLAIRE",
+    "miastoId": 465
+  },
+  {
+    "nazwa": "greenGLUKGLUK",
+    "miastoId": 649
+  },
+  {
+    "nazwa": "greenNETILITY",
+    "miastoId": 739
+  },
+  {
+    "nazwa": "blueSUPREMIA",
+    "miastoId": 400
+  },
+  {
+    "nazwa": "brownDARWINIUM",
+    "miastoId": 991
+  },
+  {
+    "nazwa": "greenTERSANKI",
+    "miastoId": 574
+  },
+  {
+    "nazwa": "brownCOMTEST",
+    "miastoId": 230
+  },
+  {
+    "nazwa": "blueRUGSTARS",
+    "miastoId": 655
+  },
+  {
+    "nazwa": "greenCINCYR",
+    "miastoId": 179
+  },
+  {
+    "nazwa": "greenHAWKSTER",
+    "miastoId": 342
+  },
+  {
+    "nazwa": "blueAUSTECH",
+    "miastoId": 801
+  },
+  {
+    "nazwa": "brownMYOPIUM",
+    "miastoId": 560
+  },
+  {
+    "nazwa": "blueISOTRONIC",
+    "miastoId": 852
+  },
+  {
+    "nazwa": "greenCOMBOGEN",
+    "miastoId": 972
+  },
+  {
+    "nazwa": "blueXIXAN",
+    "miastoId": 221
+  },
+  {
+    "nazwa": "greenIZZBY",
+    "miastoId": 729
+  },
+  {
+    "nazwa": "blueECRATIC",
+    "miastoId": 868
+  },
+  {
+    "nazwa": "blueKANGLE",
+    "miastoId": 804
+  },
+  {
+    "nazwa": "greenDADABASE",
+    "miastoId": 576
+  },
+  {
+    "nazwa": "brownCOMTOURS",
+    "miastoId": 922
+  },
+  {
+    "nazwa": "blueFITCORE",
+    "miastoId": 49
+  },
+  {
+    "nazwa": "greenROCKLOGIC",
+    "miastoId": 973
+  },
+  {
+    "nazwa": "brownUXMOX",
+    "miastoId": 127
+  },
+  {
+    "nazwa": "greenMOLTONIC",
+    "miastoId": 315
+  },
+  {
+    "nazwa": "brownCOMCUR",
+    "miastoId": 999
+  },
+  {
+    "nazwa": "bluePOOCHIES",
+    "miastoId": 172
+  },
+  {
+    "nazwa": "blueRAMJOB",
+    "miastoId": 806
+  },
+  {
+    "nazwa": "blueTRIBALOG",
+    "miastoId": 382
+  },
+  {
+    "nazwa": "greenGINKOGENE",
+    "miastoId": 624
+  },
+  {
+    "nazwa": "greenSLUMBERIA",
+    "miastoId": 224
+  },
+  {
+    "nazwa": "brownDYNO",
+    "miastoId": 281
+  },
+  {
+    "nazwa": "brownACUSAGE",
+    "miastoId": 150
+  },
+  {
+    "nazwa": "blueBLEEKO",
+    "miastoId": 369
+  },
+  {
+    "nazwa": "brownEXOPLODE",
+    "miastoId": 498
+  },
+  {
+    "nazwa": "greenMICRONAUT",
+    "miastoId": 997
+  },
+  {
+    "nazwa": "bluePROFLEX",
+    "miastoId": 438
+  },
+  {
+    "nazwa": "brownEXOZENT",
+    "miastoId": 24
+  },
+  {
+    "nazwa": "brownZENTIA",
+    "miastoId": 317
+  },
+  {
+    "nazwa": "blueZILLATIDE",
+    "miastoId": 866
+  },
+  {
+    "nazwa": "bluePORTALINE",
+    "miastoId": 102
+  },
+  {
+    "nazwa": "blueGEEKOLA",
+    "miastoId": 540
+  },
+  {
+    "nazwa": "brownKIDGREASE",
+    "miastoId": 312
+  },
+  {
+    "nazwa": "greenANIVET",
+    "miastoId": 686
+  },
+  {
+    "nazwa": "brownPATHWAYS",
+    "miastoId": 244
+  },
+  {
+    "nazwa": "blueZILLACOM",
+    "miastoId": 625
+  },
+  {
+    "nazwa": "brownCOMTEXT",
+    "miastoId": 224
+  },
+  {
+    "nazwa": "blueZENTIX",
+    "miastoId": 868
+  },
+  {
+    "nazwa": "brownSHADEASE",
+    "miastoId": 343
+  },
+  {
+    "nazwa": "blueAPPLIDEC",
+    "miastoId": 71
+  },
+  {
+    "nazwa": "blueUNEEQ",
+    "miastoId": 384
+  },
+  {
+    "nazwa": "greenGEEKNET",
+    "miastoId": 374
+  },
+  {
+    "nazwa": "greenNAVIR",
+    "miastoId": 896
+  },
+  {
+    "nazwa": "blueORBIXTAR",
+    "miastoId": 21
+  },
+  {
+    "nazwa": "brownKEENGEN",
+    "miastoId": 208
+  },
+  {
+    "nazwa": "brownHOUSEDOWN",
+    "miastoId": 992
+  },
+  {
+    "nazwa": "blueVALREDA",
+    "miastoId": 274
+  },
+  {
+    "nazwa": "blueNAXDIS",
+    "miastoId": 145
+  },
+  {
+    "nazwa": "brownGRUPOLI",
+    "miastoId": 189
+  },
+  {
+    "nazwa": "blueINJOY",
+    "miastoId": 594
+  },
+  {
+    "nazwa": "blueMANGLO",
+    "miastoId": 606
+  },
+  {
+    "nazwa": "brownECSTASIA",
+    "miastoId": 241
+  },
+  {
+    "nazwa": "greenSPLINX",
+    "miastoId": 133
+  },
+  {
+    "nazwa": "greenTELPOD",
+    "miastoId": 7
+  },
+  {
+    "nazwa": "greenPYRAMAX",
+    "miastoId": 738
+  },
+  {
+    "nazwa": "greenISONUS",
+    "miastoId": 251
+  },
+  {
+    "nazwa": "greenQUILITY",
+    "miastoId": 391
+  },
+  {
+    "nazwa": "blueSOFTMICRO",
+    "miastoId": 896
+  },
+  {
+    "nazwa": "blueCOMVERGES",
+    "miastoId": 188
+  },
+  {
+    "nazwa": "brownKRAG",
+    "miastoId": 297
+  },
+  {
+    "nazwa": "blueANACHO",
+    "miastoId": 960
+  },
+  {
+    "nazwa": "brownELITA",
+    "miastoId": 772
+  },
+  {
+    "nazwa": "blueADORNICA",
+    "miastoId": 655
+  },
+  {
+    "nazwa": "blueTYPHONICA",
+    "miastoId": 220
+  },
+  {
+    "nazwa": "greenSTOCKPOST",
+    "miastoId": 603
+  },
+  {
+    "nazwa": "greenSHEPARD",
+    "miastoId": 586
+  },
+  {
+    "nazwa": "blueEXPOSA",
+    "miastoId": 326
+  },
+  {
+    "nazwa": "greenORBIFLEX",
+    "miastoId": 368
+  },
+  {
+    "nazwa": "brownGEEKOLOGY",
+    "miastoId": 717
+  },
+  {
+    "nazwa": "brownENTOGROK",
+    "miastoId": 262
+  },
+  {
+    "nazwa": "greenNITRACYR",
+    "miastoId": 271
+  },
+  {
+    "nazwa": "greenPLASTO",
+    "miastoId": 574
+  },
+  {
+    "nazwa": "greenHOMELUX",
+    "miastoId": 341
+  },
+  {
+    "nazwa": "brownMEGALL",
+    "miastoId": 932
+  },
+  {
+    "nazwa": "brownQUILTIGEN",
+    "miastoId": 120
+  },
+  {
+    "nazwa": "greenEXOTERIC",
+    "miastoId": 4
+  },
+  {
+    "nazwa": "brownSUPPORTAL",
+    "miastoId": 397
+  },
+  {
+    "nazwa": "blueGROK",
+    "miastoId": 555
+  },
+  {
+    "nazwa": "brownOPTICALL",
+    "miastoId": 296
+  },
+  {
+    "nazwa": "blueELPRO",
+    "miastoId": 757
+  },
+  {
+    "nazwa": "blueISOSPHERE",
+    "miastoId": 943
+  },
+  {
+    "nazwa": "blueACCUFARM",
+    "miastoId": 178
+  },
+  {
+    "nazwa": "greenBRAINQUIL",
+    "miastoId": 76
+  },
+  {
+    "nazwa": "brownTWIIST",
+    "miastoId": 9
+  },
+  {
+    "nazwa": "blueSHOPABOUT",
+    "miastoId": 600
+  },
+  {
+    "nazwa": "brownHOTCAKES",
+    "miastoId": 230
+  },
+  {
+    "nazwa": "blueSCENTRIC",
+    "miastoId": 962
+  },
+  {
+    "nazwa": "greenZANITY",
+    "miastoId": 109
+  },
+  {
+    "nazwa": "greenOPTYK",
+    "miastoId": 895
+  },
+  {
+    "nazwa": "greenCOGNICODE",
+    "miastoId": 989
+  },
+  {
+    "nazwa": "blueENQUILITY",
+    "miastoId": 3
+  },
+  {
+    "nazwa": "blueXERONK",
+    "miastoId": 952
+  },
+  {
+    "nazwa": "blueRECRISYS",
+    "miastoId": 939
+  },
+  {
+    "nazwa": "greenJUMPSTACK",
+    "miastoId": 19
+  },
+  {
+    "nazwa": "brownISOLOGIA",
+    "miastoId": 606
+  },
+  {
+    "nazwa": "brownDREAMIA",
+    "miastoId": 955
+  },
+  {
+    "nazwa": "brownBUZZWORKS",
+    "miastoId": 307
+  },
+  {
+    "nazwa": "brownEXTRAGENE",
+    "miastoId": 438
+  },
+  {
+    "nazwa": "greenWARETEL",
+    "miastoId": 957
+  },
+  {
+    "nazwa": "brownBLUEGRAIN",
+    "miastoId": 3
+  },
+  {
+    "nazwa": "blueEARTHPURE",
+    "miastoId": 584
+  },
+  {
+    "nazwa": "greenENERSOL",
+    "miastoId": 711
+  },
+  {
+    "nazwa": "blueDAYCORE",
+    "miastoId": 640
+  },
+  {
+    "nazwa": "greenNETROPIC",
+    "miastoId": 314
+  },
+  {
+    "nazwa": "blueMAXIMIND",
+    "miastoId": 987
+  },
+  {
+    "nazwa": "bluePETICULAR",
+    "miastoId": 965
+  },
+  {
+    "nazwa": "greenQNEKT",
+    "miastoId": 635
+  },
+  {
+    "nazwa": "blueKIOSK",
+    "miastoId": 468
+  },
+  {
+    "nazwa": "brownTRIPSCH",
+    "miastoId": 248
+  },
+  {
+    "nazwa": "brownTSUNAMIA",
+    "miastoId": 225
+  },
+  {
+    "nazwa": "brownRODEOLOGY",
+    "miastoId": 954
+  },
+  {
+    "nazwa": "brownHIVEDOM",
+    "miastoId": 342
+  },
+  {
+    "nazwa": "blueCYTREK",
+    "miastoId": 71
+  },
+  {
+    "nazwa": "greenGLEAMINK",
+    "miastoId": 352
+  },
+  {
+    "nazwa": "brownSTEELTAB",
+    "miastoId": 520
+  },
+  {
+    "nazwa": "greenDRAGBOT",
+    "miastoId": 409
+  },
+  {
+    "nazwa": "blueGYNKO",
+    "miastoId": 905
+  },
+  {
+    "nazwa": "brownANDERSHUN",
+    "miastoId": 913
+  },
+  {
+    "nazwa": "brownEXOSTREAM",
+    "miastoId": 131
+  },
+  {
+    "nazwa": "brownMANUFACT",
+    "miastoId": 863
+  },
+  {
+    "nazwa": "blueCONCILITY",
+    "miastoId": 937
+  },
+  {
+    "nazwa": "brownINSECTUS",
+    "miastoId": 583
+  },
+  {
+    "nazwa": "blueROBOID",
+    "miastoId": 540
+  },
+  {
+    "nazwa": "greenZILLADYNE",
+    "miastoId": 988
+  },
+  {
+    "nazwa": "brownOZEAN",
+    "miastoId": 740
+  },
+  {
+    "nazwa": "brownINSURESYS",
+    "miastoId": 834
+  },
+  {
+    "nazwa": "brownSENSATE",
+    "miastoId": 48
+  },
+  {
+    "nazwa": "brownBITENDREX",
+    "miastoId": 69
+  },
+  {
+    "nazwa": "greenBITREX",
+    "miastoId": 412
+  },
+  {
+    "nazwa": "greenESCHOIR",
+    "miastoId": 949
+  },
+  {
+    "nazwa": "greenHOMETOWN",
+    "miastoId": 305
+  },
+  {
+    "nazwa": "brownOPPORTECH",
+    "miastoId": 467
+  },
+  {
+    "nazwa": "brownBALUBA",
+    "miastoId": 878
+  },
+  {
+    "nazwa": "brownQOT",
+    "miastoId": 661
+  },
+  {
+    "nazwa": "blueGRAINSPOT",
+    "miastoId": 348
+  },
+  {
+    "nazwa": "greenXELEGYL",
+    "miastoId": 966
+  },
+  {
+    "nazwa": "brownAPEXIA",
+    "miastoId": 2
+  },
+  {
+    "nazwa": "brownZILLIDIUM",
+    "miastoId": 903
+  },
+  {
+    "nazwa": "brownZILLAR",
+    "miastoId": 954
+  },
+  {
+    "nazwa": "greenGLOBOIL",
+    "miastoId": 697
+  },
+  {
+    "nazwa": "brownMIRACULA",
+    "miastoId": 365
+  },
+  {
+    "nazwa": "greenMOMENTIA",
+    "miastoId": 871
+  },
+  {
+    "nazwa": "bluePODUNK",
+    "miastoId": 613
+  },
+  {
+    "nazwa": "blueFREAKIN",
+    "miastoId": 140
+  },
+  {
+    "nazwa": "blueBOVIS",
+    "miastoId": 178
+  },
+  {
+    "nazwa": "greenIMANT",
+    "miastoId": 420
+  },
+  {
+    "nazwa": "greenPHARMACON",
+    "miastoId": 787
+  },
+  {
+    "nazwa": "brownZIGGLES",
+    "miastoId": 944
+  },
+  {
+    "nazwa": "greenMENBRAIN",
+    "miastoId": 958
+  },
+  {
+    "nazwa": "blueDIGIRANG",
+    "miastoId": 663
+  },
+  {
+    "nazwa": "greenPORTICA",
+    "miastoId": 226
+  },
+  {
+    "nazwa": "blueRECOGNIA",
+    "miastoId": 207
+  },
+  {
+    "nazwa": "blueZYTREK",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "greenBUZZMAKER",
+    "miastoId": 171
+  },
+  {
+    "nazwa": "greenCOLUMELLA",
+    "miastoId": 239
+  },
+  {
+    "nazwa": "brownGOKO",
+    "miastoId": 675
+  },
+  {
+    "nazwa": "greenORGANICA",
+    "miastoId": 866
+  },
+  {
+    "nazwa": "blueNORALEX",
+    "miastoId": 741
+  },
+  {
+    "nazwa": "brownNEWCUBE",
+    "miastoId": 168
+  },
+  {
+    "nazwa": "greenRODEMCO",
+    "miastoId": 97
+  },
+  {
+    "nazwa": "brownLEXICONDO",
+    "miastoId": 713
+  },
+  {
+    "nazwa": "greenGOLISTIC",
+    "miastoId": 157
+  },
+  {
+    "nazwa": "blueEXOSWITCH",
+    "miastoId": 676
+  },
+  {
+    "nazwa": "brownVISALIA",
+    "miastoId": 85
+  },
+  {
+    "nazwa": "blueDEMINIMUM",
+    "miastoId": 913
+  },
+  {
+    "nazwa": "brownCUBICIDE",
+    "miastoId": 666
+  },
+  {
+    "nazwa": "greenGYNK",
+    "miastoId": 951
+  },
+  {
+    "nazwa": "blueSLOFAST",
+    "miastoId": 911
+  },
+  {
+    "nazwa": "blueAUTOGRATE",
+    "miastoId": 578
+  },
+  {
+    "nazwa": "greenJETSILK",
+    "miastoId": 846
+  },
+  {
+    "nazwa": "greenZOUNDS",
+    "miastoId": 945
+  },
+  {
+    "nazwa": "blueCOLLAIRE",
+    "miastoId": 866
+  },
+  {
+    "nazwa": "greenPOLARIA",
+    "miastoId": 612
+  },
+  {
+    "nazwa": "blueZENTURY",
+    "miastoId": 181
+  },
+  {
+    "nazwa": "blueCEDWARD",
+    "miastoId": 562
+  },
+  {
+    "nazwa": "blueMAZUDA",
+    "miastoId": 890
+  },
+  {
+    "nazwa": "greenMEDIOT",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "blueACCUPRINT",
+    "miastoId": 650
+  },
+  {
+    "nazwa": "brownCUJO",
+    "miastoId": 587
+  },
+  {
+    "nazwa": "brownKATAKANA",
+    "miastoId": 789
+  },
+  {
+    "nazwa": "blueDOGTOWN",
+    "miastoId": 692
+  },
+  {
+    "nazwa": "brownBILLMED",
+    "miastoId": 423
+  },
+  {
+    "nazwa": "blueMEDMEX",
+    "miastoId": 850
+  },
+  {
+    "nazwa": "blueOBONES",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "blueACCRUEX",
+    "miastoId": 338
+  },
+  {
+    "nazwa": "blueDIGIGEN",
+    "miastoId": 516
+  },
+  {
+    "nazwa": "greenMAXEMIA",
+    "miastoId": 387
+  },
+  {
+    "nazwa": "blueBIOSPAN",
+    "miastoId": 256
+  },
+  {
+    "nazwa": "bluePIVITOL",
+    "miastoId": 600
+  },
+  {
+    "nazwa": "blueZAPPIX",
+    "miastoId": 784
+  },
+  {
+    "nazwa": "brownNIPAZ",
+    "miastoId": 146
+  },
+  {
+    "nazwa": "blueECOLIGHT",
+    "miastoId": 257
+  },
+  {
+    "nazwa": "greenKINETICA",
+    "miastoId": 805
+  },
+  {
+    "nazwa": "brownSKYBOLD",
+    "miastoId": 689
+  },
+  {
+    "nazwa": "brownZERBINA",
+    "miastoId": 630
+  },
+  {
+    "nazwa": "blueGEEKFARM",
+    "miastoId": 818
+  },
+  {
+    "nazwa": "brownREALMO",
+    "miastoId": 305
+  },
+  {
+    "nazwa": "bluePANZENT",
+    "miastoId": 46
+  },
+  {
+    "nazwa": "brownZILPHUR",
+    "miastoId": 569
+  },
+  {
+    "nazwa": "greenBUGSALL",
+    "miastoId": 980
+  },
+  {
+    "nazwa": "greenOPTICOM",
+    "miastoId": 517
+  },
+  {
+    "nazwa": "greenEQUITOX",
+    "miastoId": 506
+  },
+  {
+    "nazwa": "blueENAUT",
+    "miastoId": 421
+  },
+  {
+    "nazwa": "blueCENTREE",
+    "miastoId": 110
+  },
+  {
+    "nazwa": "blueCYTREX",
+    "miastoId": 464
+  },
+  {
+    "nazwa": "brownCINASTER",
+    "miastoId": 611
+  },
+  {
+    "nazwa": "blueINTERGEEK",
+    "miastoId": 390
+  },
+  {
+    "nazwa": "brownKYAGORO",
+    "miastoId": 714
+  },
+  {
+    "nazwa": "greenNETUR",
+    "miastoId": 404
+  },
+  {
+    "nazwa": "greenGEEKMOSIS",
+    "miastoId": 618
+  },
+  {
+    "nazwa": "blueQUIZMO",
+    "miastoId": 72
+  },
+  {
+    "nazwa": "brownROUGHIES",
+    "miastoId": 295
+  },
+  {
+    "nazwa": "blueILLUMITY",
+    "miastoId": 164
+  },
+  {
+    "nazwa": "greenXINWARE",
+    "miastoId": 574
+  },
+  {
+    "nazwa": "greenANARCO",
+    "miastoId": 335
+  },
+  {
+    "nazwa": "greenETERNIS",
+    "miastoId": 920
+  },
+  {
+    "nazwa": "greenKROG",
+    "miastoId": 145
+  },
+  {
+    "nazwa": "blueAVIT",
+    "miastoId": 635
+  },
+  {
+    "nazwa": "brownACCEL",
+    "miastoId": 636
+  },
+  {
+    "nazwa": "bluePLEXIA",
+    "miastoId": 541
+  },
+  {
+    "nazwa": "blueLIMOZEN",
+    "miastoId": 231
+  },
+  {
+    "nazwa": "brownTELLIFLY",
+    "miastoId": 880
+  },
+  {
+    "nazwa": "greenVISUALIX",
+    "miastoId": 909
+  },
+  {
+    "nazwa": "brownMAGNAFONE",
+    "miastoId": 374
+  },
+  {
+    "nazwa": "greenMONDICIL",
+    "miastoId": 188
+  },
+  {
+    "nazwa": "brownGUSHKOOL",
+    "miastoId": 906
+  },
+  {
+    "nazwa": "brownGENMOM",
+    "miastoId": 829
+  },
+  {
+    "nazwa": "greenSCENTY",
+    "miastoId": 287
+  },
+  {
+    "nazwa": "blueRECRITUBE",
+    "miastoId": 618
+  },
+  {
+    "nazwa": "brownDAIDO",
+    "miastoId": 975
+  },
+  {
+    "nazwa": "greenEZENTIA",
+    "miastoId": 567
+  },
+  {
+    "nazwa": "blueOVOLO",
+    "miastoId": 768
+  },
+  {
+    "nazwa": "greenVIASIA",
+    "miastoId": 483
+  },
+  {
+    "nazwa": "blueZOLAREX",
+    "miastoId": 561
+  },
+  {
+    "nazwa": "greenAPEX",
+    "miastoId": 860
+  },
+  {
+    "nazwa": "brownCEPRENE",
+    "miastoId": 150
+  },
+  {
+    "nazwa": "blueTERAPRENE",
+    "miastoId": 799
+  },
+  {
+    "nazwa": "blueOMATOM",
+    "miastoId": 851
+  },
+  {
+    "nazwa": "greenCORECOM",
+    "miastoId": 941
+  },
+  {
+    "nazwa": "blueCOMVEY",
+    "miastoId": 959
+  },
+  {
+    "nazwa": "brownNETAGY",
+    "miastoId": 129
+  },
+  {
+    "nazwa": "brownTELEQUIET",
+    "miastoId": 89
+  },
+  {
+    "nazwa": "greenEARTHWAX",
+    "miastoId": 350
+  },
+  {
+    "nazwa": "greenFUTURIS",
+    "miastoId": 835
+  },
+  {
+    "nazwa": "brownNEUROCELL",
+    "miastoId": 277
+  },
+  {
+    "nazwa": "brownENTROPIX",
+    "miastoId": 165
+  },
+  {
+    "nazwa": "bluePIGZART",
+    "miastoId": 818
+  },
+  {
+    "nazwa": "greenMELBACOR",
+    "miastoId": 928
+  },
+  {
+    "nazwa": "brownFLOTONIC",
+    "miastoId": 269
+  },
+  {
+    "nazwa": "brownLIMAGE",
+    "miastoId": 324
+  },
+  {
+    "nazwa": "blueBEZAL",
+    "miastoId": 139
+  },
+  {
+    "nazwa": "blueFLYBOYZ",
+    "miastoId": 807
+  },
+  {
+    "nazwa": "greenTERRASYS",
+    "miastoId": 348
+  },
+  {
+    "nazwa": "brownLOCAZONE",
+    "miastoId": 97
+  },
+  {
+    "nazwa": "greenSIGNIDYNE",
+    "miastoId": 409
+  },
+  {
+    "nazwa": "blueXYLAR",
+    "miastoId": 302
+  },
+  {
+    "nazwa": "brownCHORIZON",
+    "miastoId": 527
+  },
+  {
+    "nazwa": "greenGOGOL",
+    "miastoId": 200
+  },
+  {
+    "nazwa": "blueUNCORP",
+    "miastoId": 75
+  },
+  {
+    "nazwa": "brownSNIPS",
+    "miastoId": 663
+  },
+  {
+    "nazwa": "blueULTRASURE",
+    "miastoId": 919
+  },
+  {
+    "nazwa": "greenZOMBOID",
+    "miastoId": 883
+  },
+  {
+    "nazwa": "brownNORSUP",
+    "miastoId": 78
+  },
+  {
+    "nazwa": "greenDATAGEN",
+    "miastoId": 108
+  },
+  {
+    "nazwa": "greenCODACT",
+    "miastoId": 178
+  },
+  {
+    "nazwa": "brownNAMEBOX",
+    "miastoId": 731
+  },
+  {
+    "nazwa": "greenDIGIFAD",
+    "miastoId": 577
+  },
+  {
+    "nazwa": "brownREMOLD",
+    "miastoId": 915
+  },
+  {
+    "nazwa": "brownBEADZZA",
+    "miastoId": 623
+  },
+  {
+    "nazwa": "blueVITRICOMP",
+    "miastoId": 10
+  },
+  {
+    "nazwa": "brownINSURETY",
+    "miastoId": 62
+  },
+  {
+    "nazwa": "brownOULU",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "brownONTAGENE",
+    "miastoId": 414
+  },
+  {
+    "nazwa": "blueZOLAVO",
+    "miastoId": 383
+  },
+  {
+    "nazwa": "greenDIGIQUE",
+    "miastoId": 599
+  },
+  {
+    "nazwa": "blueDOGSPA",
+    "miastoId": 831
+  },
+  {
+    "nazwa": "greenQUANTALIA",
+    "miastoId": 279
+  },
+  {
+    "nazwa": "greenFARMEX",
+    "miastoId": 175
+  },
+  {
+    "nazwa": "brownTALKOLA",
+    "miastoId": 455
+  },
+  {
+    "nazwa": "brownPARLEYNET",
+    "miastoId": 395
+  },
+  {
+    "nazwa": "blueZILODYNE",
+    "miastoId": 860
+  },
+  {
+    "nazwa": "greenOTHERWAY",
+    "miastoId": 772
+  },
+  {
+    "nazwa": "blueBOINK",
+    "miastoId": 80
+  },
+  {
+    "nazwa": "brownKOFFEE",
+    "miastoId": 47
+  },
+  {
+    "nazwa": "greenBEDLAM",
+    "miastoId": 302
+  },
+  {
+    "nazwa": "greenAPPLICA",
+    "miastoId": 651
+  },
+  {
+    "nazwa": "blueCOMTOUR",
+    "miastoId": 93
+  },
+  {
+    "nazwa": "brownXIIX",
+    "miastoId": 650
+  },
+  {
+    "nazwa": "blueLUMBREX",
+    "miastoId": 757
+  },
+  {
+    "nazwa": "greenENDIPIN",
+    "miastoId": 76
+  },
+  {
+    "nazwa": "brownHINWAY",
+    "miastoId": 113
+  },
+  {
+    "nazwa": "brownPLUTORQUE",
+    "miastoId": 491
+  },
+  {
+    "nazwa": "greenSULFAX",
+    "miastoId": 468
+  },
+  {
+    "nazwa": "blueUNIWORLD",
+    "miastoId": 115
+  },
+  {
+    "nazwa": "brownIDETICA",
+    "miastoId": 273
+  },
+  {
+    "nazwa": "greenJAMNATION",
+    "miastoId": 872
+  },
+  {
+    "nazwa": "brownKEEG",
+    "miastoId": 149
+  },
+  {
+    "nazwa": "blueACRUEX",
+    "miastoId": 729
+  },
+  {
+    "nazwa": "greenENDICIL",
+    "miastoId": 87
+  },
+  {
+    "nazwa": "blueQUAILCOM",
+    "miastoId": 789
+  },
+  {
+    "nazwa": "greenCALLFLEX",
+    "miastoId": 251
+  },
+  {
+    "nazwa": "blueMATRIXITY",
+    "miastoId": 70
+  },
+  {
+    "nazwa": "greenEARTHPLEX",
+    "miastoId": 315
+  },
+  {
+    "nazwa": "blueMARKETOID",
+    "miastoId": 780
+  },
+  {
+    "nazwa": "brownLUNCHPOD",
+    "miastoId": 137
+  },
+  {
+    "nazwa": "brownTRANSLINK",
+    "miastoId": 663
+  },
+  {
+    "nazwa": "blueAUTOMON",
+    "miastoId": 834
+  },
+  {
+    "nazwa": "blueSIGNITY",
+    "miastoId": 229
+  },
+  {
+    "nazwa": "blueTELEPARK",
+    "miastoId": 645
+  },
+  {
+    "nazwa": "greenCENTREXIN",
+    "miastoId": 627
+  },
+  {
+    "nazwa": "blueFRENEX",
+    "miastoId": 373
+  },
+  {
+    "nazwa": "blueASSITIA",
+    "miastoId": 382
+  },
+  {
+    "nazwa": "blueGRONK",
+    "miastoId": 745
+  },
+  {
+    "nazwa": "blueSQUISH",
+    "miastoId": 464
+  },
+  {
+    "nazwa": "bluePOLARAX",
+    "miastoId": 756
+  },
+  {
+    "nazwa": "greenAQUAFIRE",
+    "miastoId": 483
+  },
+  {
+    "nazwa": "brownSTROZEN",
+    "miastoId": 568
+  },
+  {
+    "nazwa": "greenOPTICON",
+    "miastoId": 921
+  },
+  {
+    "nazwa": "brownSPEEDBOLT",
+    "miastoId": 255
+  },
+  {
+    "nazwa": "blueKAGGLE",
+    "miastoId": 229
+  },
+  {
+    "nazwa": "greenBLUPLANET",
+    "miastoId": 294
+  },
+  {
+    "nazwa": "greenZILCH",
+    "miastoId": 270
+  },
+  {
+    "nazwa": "brownESSENSIA",
+    "miastoId": 295
+  },
+  {
+    "nazwa": "greenDUFLEX",
+    "miastoId": 669
+  },
+  {
+    "nazwa": "blueROCKYARD",
+    "miastoId": 189
+  },
+  {
+    "nazwa": "blueGOLOGY",
+    "miastoId": 260
+  },
+  {
+    "nazwa": "brownPHOLIO",
+    "miastoId": 400
+  },
+  {
+    "nazwa": "greenVIXO",
+    "miastoId": 879
+  },
+  {
+    "nazwa": "blueXSPORTS",
+    "miastoId": 517
+  },
+  {
+    "nazwa": "brownKLUGGER",
+    "miastoId": 534
+  },
+  {
+    "nazwa": "brownBIOHAB",
+    "miastoId": 471
+  },
+  {
+    "nazwa": "greenUTARIAN",
+    "miastoId": 609
+  },
+  {
+    "nazwa": "brownYURTURE",
+    "miastoId": 962
+  },
+  {
+    "nazwa": "greenASSISTIX",
+    "miastoId": 189
+  },
+  {
+    "nazwa": "greenTALENDULA",
+    "miastoId": 871
+  },
+  {
+    "nazwa": "brownKENEGY",
+    "miastoId": 573
+  },
+  {
+    "nazwa": "blueEVENTEX",
+    "miastoId": 390
+  },
+  {
+    "nazwa": "greenMEDICROIX",
+    "miastoId": 126
+  },
+  {
+    "nazwa": "brownDANJA",
+    "miastoId": 891
+  },
+  {
+    "nazwa": "brownKIGGLE",
+    "miastoId": 452
+  },
+  {
+    "nazwa": "brownENERSAVE",
+    "miastoId": 744
+  },
+  {
+    "nazwa": "blueIDEALIS",
+    "miastoId": 90
+  },
+  {
+    "nazwa": "blueXANIDE",
+    "miastoId": 851
+  },
+  {
+    "nazwa": "greenEMTRAK",
+    "miastoId": 373
+  },
+  {
+    "nazwa": "greenSARASONIC",
+    "miastoId": 37
+  },
+  {
+    "nazwa": "blueSULTRAX",
+    "miastoId": 737
+  },
+  {
+    "nazwa": "blueMINGA",
+    "miastoId": 961
+  },
+  {
+    "nazwa": "greenSTELAECOR",
+    "miastoId": 464
+  },
+  {
+    "nazwa": "brownCOREPAN",
+    "miastoId": 405
+  },
+  {
+    "nazwa": "brownZBOO",
+    "miastoId": 725
+  },
+  {
+    "nazwa": "brownEGYPTO",
+    "miastoId": 382
+  },
+  {
+    "nazwa": "greenSYNKGEN",
+    "miastoId": 773
+  },
+  {
+    "nazwa": "greenZYTREX",
+    "miastoId": 603
+  },
+  {
+    "nazwa": "greenEXTRAWEAR",
+    "miastoId": 737
+  },
+  {
+    "nazwa": "brownEZENT",
+    "miastoId": 572
+  },
+  {
+    "nazwa": "blueKIDSTOCK",
+    "miastoId": 634
+  },
+  {
+    "nazwa": "brownEXTRO",
+    "miastoId": 461
+  },
+  {
+    "nazwa": "greenPROSURE",
+    "miastoId": 528
+  },
+  {
+    "nazwa": "greenUBERLUX",
+    "miastoId": 815
+  },
+  {
+    "nazwa": "blueZOID",
+    "miastoId": 122
+  },
+  {
+    "nazwa": "greenMANTRO",
+    "miastoId": 193
+  },
+  {
+    "nazwa": "brownDYMI",
+    "miastoId": 563
+  },
+  {
+    "nazwa": "brownDANCITY",
+    "miastoId": 577
+  },
+  {
+    "nazwa": "blueTOURMANIA",
+    "miastoId": 677
+  },
+  {
+    "nazwa": "bluePULZE",
+    "miastoId": 816
+  },
+  {
+    "nazwa": "brownNAMEGEN",
+    "miastoId": 845
+  },
+  {
+    "nazwa": "blueKRAGGLE",
+    "miastoId": 73
+  },
+  {
+    "nazwa": "greenFIBRODYNE",
+    "miastoId": 3
+  },
+  {
+    "nazwa": "greenENTALITY",
+    "miastoId": 867
+  },
+  {
+    "nazwa": "blueVELOS",
+    "miastoId": 6
+  },
+  {
+    "nazwa": "greenEVENTAGE",
+    "miastoId": 642
+  },
+  {
+    "nazwa": "greenUTARA",
+    "miastoId": 67
+  },
+  {
+    "nazwa": "greenANDRYX",
+    "miastoId": 196
+  },
+  {
+    "nazwa": "greenECLIPTO",
+    "miastoId": 397
+  },
+  {
+    "nazwa": "blueBIOLIVE",
+    "miastoId": 656
+  },
+  {
+    "nazwa": "brownRODEOMAD",
+    "miastoId": 590
+  },
+  {
+    "nazwa": "blueCOMVEYER",
+    "miastoId": 429
+  },
+  {
+    "nazwa": "greenEXOBLUE",
+    "miastoId": 992
+  },
+  {
+    "nazwa": "greenMETROZ",
+    "miastoId": 560
+  },
+  {
+    "nazwa": "greenCAPSCREEN",
+    "miastoId": 577
+  },
+  {
+    "nazwa": "blueSONGLINES",
+    "miastoId": 646
+  },
+  {
+    "nazwa": "greenDENTREX",
+    "miastoId": 129
+  },
+  {
+    "nazwa": "brownMAGNINA",
+    "miastoId": 192
+  },
+  {
+    "nazwa": "greenISOPOP",
+    "miastoId": 820
+  },
+  {
+    "nazwa": "brownAMRIL",
+    "miastoId": 266
+  },
+  {
+    "nazwa": "greenREVERSUS",
+    "miastoId": 584
+  },
+  {
+    "nazwa": "brownBOSTONIC",
+    "miastoId": 149
+  },
+  {
+    "nazwa": "greenBOLAX",
+    "miastoId": 705
+  },
+  {
+    "nazwa": "blueMITROC",
+    "miastoId": 482
+  },
+  {
+    "nazwa": "blueANIMALIA",
+    "miastoId": 992
+  },
+  {
+    "nazwa": "blueUNDERTAP",
+    "miastoId": 52
+  },
+  {
+    "nazwa": "greenAUSTEX",
+    "miastoId": 885
+  },
+  {
+    "nazwa": "brownAQUASSEUR",
+    "miastoId": 966
+  },
+  {
+    "nazwa": "greenMANTRIX",
+    "miastoId": 78
+  },
+  {
+    "nazwa": "bluePLASMOSIS",
+    "miastoId": 29
+  },
+  {
+    "nazwa": "greenACUMENTOR",
+    "miastoId": 683
+  },
+  {
+    "nazwa": "brownHELIXO",
+    "miastoId": 295
+  },
+  {
+    "nazwa": "brownPHEAST",
+    "miastoId": 807
+  },
+  {
+    "nazwa": "greenGENESYNK",
+    "miastoId": 859
+  },
+  {
+    "nazwa": "blueIMPERIUM",
+    "miastoId": 156
+  },
+  {
+    "nazwa": "greenGALLAXIA",
+    "miastoId": 350
+  },
+  {
+    "nazwa": "blueGEEKULAR",
+    "miastoId": 886
+  },
+  {
+    "nazwa": "greenZIDOX",
+    "miastoId": 611
+  },
+  {
+    "nazwa": "blueROCKABYE",
+    "miastoId": 988
+  },
+  {
+    "nazwa": "greenNETERIA",
+    "miastoId": 294
+  },
+  {
+    "nazwa": "brownUPDAT",
+    "miastoId": 113
+  },
+  {
+    "nazwa": "greenAPEXTRI",
+    "miastoId": 497
+  },
+  {
+    "nazwa": "greenREMOTION",
+    "miastoId": 846
+  },
+  {
+    "nazwa": "blueIMMUNICS",
+    "miastoId": 889
+  },
+  {
+    "nazwa": "blueMULTRON",
+    "miastoId": 985
+  },
+  {
+    "nazwa": "greenRETROTEX",
+    "miastoId": 450
+  },
+  {
+    "nazwa": "greenNEXGENE",
+    "miastoId": 73
+  },
+  {
+    "nazwa": "brownHANDSHAKE",
+    "miastoId": 590
+  },
+  {
+    "nazwa": "blueSLAX",
+    "miastoId": 691
+  },
+  {
+    "nazwa": "greenFISHLAND",
+    "miastoId": 95
+  },
+  {
+    "nazwa": "blueECOSYS",
+    "miastoId": 802
+  },
+  {
+    "nazwa": "blueVOIPA",
+    "miastoId": 522
+  },
+  {
+    "nazwa": "blueAQUASURE",
+    "miastoId": 453
+  },
+  {
+    "nazwa": "brownSYNTAC",
+    "miastoId": 669
+  },
+  {
+    "nazwa": "brownZOXY",
+    "miastoId": 183
+  },
+  {
+    "nazwa": "greenUNI",
+    "miastoId": 938
+  },
+  {
+    "nazwa": "greenDANCERITY",
+    "miastoId": 539
+  },
+  {
+    "nazwa": "greenHOPELI",
+    "miastoId": 681
+  },
+  {
+    "nazwa": "brownCANDECOR",
+    "miastoId": 406
+  },
+  {
+    "nazwa": "brownKYAGURU",
+    "miastoId": 111
+  },
+  {
+    "nazwa": "brownEVEREST",
+    "miastoId": 868
+  },
+  {
+    "nazwa": "greenINEAR",
+    "miastoId": 794
+  },
+  {
+    "nazwa": "greenCIRCUM",
+    "miastoId": 94
+  },
+  {
+    "nazwa": "blueTECHMANIA",
+    "miastoId": 668
+  },
+  {
+    "nazwa": "bluePRINTSPAN",
+    "miastoId": 139
+  },
+  {
+    "nazwa": "brownVOLAX",
+    "miastoId": 680
+  },
+  {
+    "nazwa": "greenPHUEL",
+    "miastoId": 654
+  },
+  {
+    "nazwa": "greenVELITY",
+    "miastoId": 928
+  },
+  {
+    "nazwa": "greenVIAGRAND",
+    "miastoId": 216
+  },
+  {
+    "nazwa": "brownSOPRANO",
+    "miastoId": 197
+  },
+  {
+    "nazwa": "blueACCUSAGE",
+    "miastoId": 323
+  },
+  {
+    "nazwa": "greenINQUALA",
+    "miastoId": 471
+  },
+  {
+    "nazwa": "blueDIGIGENE",
+    "miastoId": 972
+  },
+  {
+    "nazwa": "blueMIRACLIS",
+    "miastoId": 44
+  },
+  {
+    "nazwa": "greenDATACATOR",
+    "miastoId": 244
+  },
+  {
+    "nazwa": "greenECLIPSENT",
+    "miastoId": 695
+  },
+  {
+    "nazwa": "blueEARBANG",
+    "miastoId": 267
+  },
+  {
+    "nazwa": "blueUNISURE",
+    "miastoId": 513
+  },
+  {
+    "nazwa": "greenTWIGGERY",
+    "miastoId": 828
+  },
+  {
+    "nazwa": "brownSUREMAX",
+    "miastoId": 205
+  },
+  {
+    "nazwa": "blueOCTOCORE",
+    "miastoId": 182
+  },
+  {
+    "nazwa": "greenFARMAGE",
+    "miastoId": 479
+  },
+  {
+    "nazwa": "blueZENTILITY",
+    "miastoId": 87
+  },
+  {
+    "nazwa": "blueCOMTRAIL",
+    "miastoId": 724
+  },
+  {
+    "nazwa": "blueARCTIQ",
+    "miastoId": 151
+  },
+  {
+    "nazwa": "greenZANYMAX",
+    "miastoId": 446
+  },
+  {
+    "nazwa": "greenTERRAGEN",
+    "miastoId": 253
+  },
+  {
+    "nazwa": "blueCORIANDER",
+    "miastoId": 684
+  },
+  {
+    "nazwa": "blueTURNLING",
+    "miastoId": 449
+  },
+  {
+    "nazwa": "blueEXERTA",
+    "miastoId": 532
+  },
+  {
+    "nazwa": "greenEMERGENT",
+    "miastoId": 617
+  },
+  {
+    "nazwa": "blueISOLOGICS",
+    "miastoId": 59
+  },
+  {
+    "nazwa": "brownCOFINE",
+    "miastoId": 643
+  },
+  {
+    "nazwa": "brownQUARX",
+    "miastoId": 243
+  },
+  {
+    "nazwa": "brownLUDAK",
+    "miastoId": 786
+  },
+  {
+    "nazwa": "greenBLURRYBUS",
+    "miastoId": 335
+  },
+  {
+    "nazwa": "brownORBIN",
+    "miastoId": 149
+  },
+  {
+    "nazwa": "greenVANTAGE",
+    "miastoId": 638
+  },
+  {
+    "nazwa": "blueTALAE",
+    "miastoId": 653
+  },
+  {
+    "nazwa": "blueMACRONAUT",
+    "miastoId": 16
+  },
+  {
+    "nazwa": "greenAQUAMATE",
+    "miastoId": 886
+  },
+  {
+    "nazwa": "greenVIRVA",
+    "miastoId": 968
+  },
+  {
+    "nazwa": "blueBLANET",
+    "miastoId": 672
+  },
+  {
+    "nazwa": "brownECRAZE",
+    "miastoId": 362
+  },
+  {
+    "nazwa": "brownFROLIX",
+    "miastoId": 930
+  },
+  {
+    "nazwa": "blueAPPLIDECK",
+    "miastoId": 915
+  },
+  {
+    "nazwa": "blueCOMVEX",
+    "miastoId": 619
+  },
+  {
+    "nazwa": "blueOATFARM",
+    "miastoId": 631
+  },
+  {
+    "nazwa": "blueJOVIOLD",
+    "miastoId": 254
+  },
+  {
+    "nazwa": "greenZENSUS",
+    "miastoId": 746
+  },
+  {
+    "nazwa": "brownCUIZINE",
+    "miastoId": 175
+  },
+  {
+    "nazwa": "blueAQUACINE",
+    "miastoId": 344
+  },
+  {
+    "nazwa": "brownQIMONK",
+    "miastoId": 790
+  },
+  {
+    "nazwa": "brownEPLODE",
+    "miastoId": 715
+  },
+  {
+    "nazwa": "brownMEDALERT",
+    "miastoId": 403
+  },
+  {
+    "nazwa": "greenEXOTECHNO",
+    "miastoId": 186
+  },
+  {
+    "nazwa": "bluePOWERNET",
+    "miastoId": 375
+  },
+  {
+    "nazwa": "brownPROGENEX",
+    "miastoId": 787
+  },
+  {
+    "nazwa": "brownSEALOUD",
+    "miastoId": 198
+  },
+  {
+    "nazwa": "greenDEEPENDS",
+    "miastoId": 965
+  },
+  {
+    "nazwa": "greenMUSIX",
+    "miastoId": 296
+  },
+  {
+    "nazwa": "brownANOCHA",
+    "miastoId": 944
+  },
+  {
+    "nazwa": "greenSONGBIRD",
+    "miastoId": 471
+  },
+  {
+    "nazwa": "brownASSISTIA",
+    "miastoId": 801
+  },
+  {
+    "nazwa": "blueEVIDENDS",
+    "miastoId": 571
+  },
+  {
+    "nazwa": "greenCONFERIA",
+    "miastoId": 320
+  },
+  {
+    "nazwa": "greenZOARERE",
+    "miastoId": 52
+  },
+  {
+    "nazwa": "blueVETRON",
+    "miastoId": 756
+  },
+  {
+    "nazwa": "brownCOSMETEX",
+    "miastoId": 535
+  },
+  {
+    "nazwa": "blueTROPOLI",
+    "miastoId": 791
+  },
+  {
+    "nazwa": "greenVERBUS",
+    "miastoId": 657
+  },
+  {
+    "nazwa": "blueDEVILTOE",
+    "miastoId": 948
+  },
+  {
+    "nazwa": "greenARCHITAX",
+    "miastoId": 66
+  },
+  {
+    "nazwa": "greenXURBAN",
+    "miastoId": 83
+  },
+  {
+    "nazwa": "bluePHOTOBIN",
+    "miastoId": 846
+  },
+  {
+    "nazwa": "blueREPETWIRE",
+    "miastoId": 486
+  },
+  {
+    "nazwa": "brownQUONK",
+    "miastoId": 277
+  },
+  {
+    "nazwa": "brownELENTRIX",
+    "miastoId": 281
+  },
+  {
+    "nazwa": "brownENERVATE",
+    "miastoId": 602
+  },
+  {
+    "nazwa": "blueCORPULSE",
+    "miastoId": 669
+  },
+  {
+    "nazwa": "blueUNIA",
+    "miastoId": 325
+  },
+  {
+    "nazwa": "greenEBIDCO",
+    "miastoId": 297
+  },
+  {
+    "nazwa": "greenVIRXO",
+    "miastoId": 559
+  },
+  {
+    "nazwa": "greenVIDTO",
+    "miastoId": 227
+  },
+  {
+    "nazwa": "brownBUZZOPIA",
+    "miastoId": 661
+  },
+  {
+    "nazwa": "greenGEOLOGIX",
+    "miastoId": 157
+  },
+  {
+    "nazwa": "brownSOLAREN",
+    "miastoId": 938
+  },
+  {
+    "nazwa": "bluePERKLE",
+    "miastoId": 558
+  },
+  {
+    "nazwa": "greenDAISU",
+    "miastoId": 717
+  },
+  {
+    "nazwa": "blueVERAQ",
+    "miastoId": 743
+  },
+  {
+    "nazwa": "brownISOTRACK",
+    "miastoId": 577
+  },
+  {
+    "nazwa": "greenMIXERS",
+    "miastoId": 588
+  },
+  {
+    "nazwa": "greenTERASCAPE",
+    "miastoId": 978
+  },
+  {
+    "nazwa": "brownBLEENDOT",
+    "miastoId": 942
+  },
+  {
+    "nazwa": "greenBRISTO",
+    "miastoId": 91
+  },
+  {
+    "nazwa": "brownFURNITECH",
+    "miastoId": 745
+  },
+  {
+    "nazwa": "brownPROVIDCO",
+    "miastoId": 735
+  },
+  {
+    "nazwa": "blueKONNECT",
+    "miastoId": 665
+  },
+  {
+    "nazwa": "brownWATERBABY",
+    "miastoId": 177
+  },
+  {
+    "nazwa": "blueFURNIGEER",
+    "miastoId": 304
+  },
+  {
+    "nazwa": "blueORBALIX",
+    "miastoId": 230
+  },
+  {
+    "nazwa": "greenCOMSTRUCT",
+    "miastoId": 461
+  },
+  {
+    "nazwa": "greenCOMDOM",
+    "miastoId": 769
+  },
+  {
+    "nazwa": "greenMARVANE",
+    "miastoId": 514
+  },
+  {
+    "nazwa": "greenTINGLES",
+    "miastoId": 996
+  },
+  {
+    "nazwa": "brownZILLA",
+    "miastoId": 278
+  },
+  {
+    "nazwa": "brownPORTALIS",
+    "miastoId": 69
+  },
+  {
+    "nazwa": "greenSUNCLIPSE",
+    "miastoId": 662
+  },
+  {
+    "nazwa": "blueAMTAS",
+    "miastoId": 563
+  },
+  {
+    "nazwa": "brownSYBIXTEX",
+    "miastoId": 913
+  },
+  {
+    "nazwa": "greenCORPORANA",
+    "miastoId": 598
+  },
+  {
+    "nazwa": "blueGAZAK",
+    "miastoId": 436
+  },
+  {
+    "nazwa": "brownFUTURIZE",
+    "miastoId": 984
+  },
+  {
+    "nazwa": "blueFIREWAX",
+    "miastoId": 121
+  },
+  {
+    "nazwa": "blueZOSIS",
+    "miastoId": 565
+  },
+  {
+    "nazwa": "greenCOMTRAK",
+    "miastoId": 804
+  },
+  {
+    "nazwa": "greenEXOSPACE",
+    "miastoId": 75
+  },
+  {
+    "nazwa": "greenIPLAX",
+    "miastoId": 288
+  },
+  {
+    "nazwa": "greenNIQUENT",
+    "miastoId": 308
+  },
+  {
+    "nazwa": "greenQIAO",
+    "miastoId": 597
+  },
+  {
+    "nazwa": "blueHAIRPORT",
+    "miastoId": 73
+  },
+  {
+    "nazwa": "brownSATIANCE",
+    "miastoId": 574
+  },
+  {
+    "nazwa": "greenNETPLODE",
+    "miastoId": 525
+  },
+  {
+    "nazwa": "greenQUARMONY",
+    "miastoId": 503
+  },
+  {
+    "nazwa": "brownXYMONK",
+    "miastoId": 495
+  },
+  {
+    "nazwa": "blueGEEKUS",
+    "miastoId": 335
+  },
+  {
+    "nazwa": "greenISOSWITCH",
+    "miastoId": 338
+  },
+  {
+    "nazwa": "brownEMPIRICA",
+    "miastoId": 724
+  },
+  {
+    "nazwa": "brownGAPTEC",
+    "miastoId": 991
+  },
+  {
+    "nazwa": "greenPUSHCART",
+    "miastoId": 35
+  },
+  {
+    "nazwa": "brownUNQ",
+    "miastoId": 233
+  },
+  {
+    "nazwa": "blueSTRALOY",
+    "miastoId": 470
+  },
+  {
+    "nazwa": "greenBULLZONE",
+    "miastoId": 533
+  },
+  {
+    "nazwa": "brownPLAYCE",
+    "miastoId": 698
+  },
+  {
+    "nazwa": "blueATOMICA",
+    "miastoId": 691
+  },
+  {
+    "nazwa": "brownEXODOC",
+    "miastoId": 151
+  },
+  {
+    "nazwa": "greenRETRACK",
+    "miastoId": 941
+  },
+  {
+    "nazwa": "brownINTRAWEAR",
+    "miastoId": 303
+  },
+  {
+    "nazwa": "brownGLUID",
+    "miastoId": 231
+  },
+  {
+    "nazwa": "brownLUNCHPAD",
+    "miastoId": 39
+  },
+  {
+    "nazwa": "brownYOGASM",
+    "miastoId": 11
+  },
+  {
+    "nazwa": "greenMAROPTIC",
+    "miastoId": 442
+  },
+  {
+    "nazwa": "blueAVENETRO",
+    "miastoId": 299
+  },
+  {
+    "nazwa": "brownKONGENE",
+    "miastoId": 570
+  },
+  {
+    "nazwa": "brownRONELON",
+    "miastoId": 650
+  },
+  {
+    "nazwa": "greenTOYLETRY",
+    "miastoId": 456
+  },
+  {
+    "nazwa": "brownPYRAMI",
+    "miastoId": 173
+  },
+  {
+    "nazwa": "blueFLUM",
+    "miastoId": 266
+  },
+  {
+    "nazwa": "blueCOMTREK",
+    "miastoId": 996
+  },
+  {
+    "nazwa": "greenEXIAND",
+    "miastoId": 318
+  },
+  {
+    "nazwa": "blueHYPLEX",
+    "miastoId": 181
+  },
+  {
+    "nazwa": "blueASIMILINE",
+    "miastoId": 683
+  },
+  {
+    "nazwa": "greenDOGNOST",
+    "miastoId": 25
+  },
+  {
+    "nazwa": "brownZENSOR",
+    "miastoId": 518
+  },
+  {
+    "nazwa": "blueVINCH",
+    "miastoId": 680
+  },
+  {
+    "nazwa": "brownCOMBOT",
+    "miastoId": 960
+  },
+  {
+    "nazwa": "greenVURBO",
+    "miastoId": 77
+  },
+  {
+    "nazwa": "brownWAAB",
+    "miastoId": 888
+  },
+  {
+    "nazwa": "brownSLAMBDA",
+    "miastoId": 906
+  },
+  {
+    "nazwa": "brownBOILICON",
+    "miastoId": 253
+  },
+  {
+    "nazwa": "greenENTHAZE",
+    "miastoId": 542
+  },
+  {
+    "nazwa": "blueONTALITY",
+    "miastoId": 746
+  },
+  {
+    "nazwa": "blueLOTRON",
+    "miastoId": 996
+  },
+  {
+    "nazwa": "blueCOASH",
+    "miastoId": 46
+  },
+  {
+    "nazwa": "greenNORSUL",
+    "miastoId": 8
+  },
+  {
+    "nazwa": "greenFIBEROX",
+    "miastoId": 716
+  },
+  {
+    "nazwa": "brownBOILCAT",
+    "miastoId": 748
+  },
+  {
+    "nazwa": "blueLETPRO",
+    "miastoId": 864
+  },
+  {
+    "nazwa": "brownQUILM",
+    "miastoId": 845
+  },
+  {
+    "nazwa": "brownXTH",
+    "miastoId": 264
+  },
+  {
+    "nazwa": "blueZENTHALL",
+    "miastoId": 34
+  },
+  {
+    "nazwa": "brownGENMEX",
+    "miastoId": 693
+  },
+  {
+    "nazwa": "brownOVERPLEX",
+    "miastoId": 465
+  },
+  {
+    "nazwa": "blueGEEKOL",
+    "miastoId": 460
+  },
+  {
+    "nazwa": "brownEURON",
+    "miastoId": 539
+  },
+  {
+    "nazwa": "greenPOSHOME",
+    "miastoId": 507
+  },
+  {
+    "nazwa": "blueLIQUICOM",
+    "miastoId": 366
+  },
+  {
+    "nazwa": "blueIDEGO",
+    "miastoId": 844
+  },
+  {
+    "nazwa": "brownZUVY",
+    "miastoId": 59
+  },
+  {
+    "nazwa": "blueKOG",
+    "miastoId": 114
+  },
+  {
+    "nazwa": "bluePETIGEMS",
+    "miastoId": 399
+  },
+  {
+    "nazwa": "brownSINGAVERA",
+    "miastoId": 438
+  },
+  {
+    "nazwa": "greenVIAGREAT",
+    "miastoId": 2
+  },
+  {
+    "nazwa": "blueZINCA",
+    "miastoId": 799
+  },
+  {
+    "nazwa": "greenFUTURITY",
+    "miastoId": 580
+  },
+  {
+    "nazwa": "greenNIKUDA",
+    "miastoId": 498
+  },
+  {
+    "nazwa": "blueGEOSTELE",
+    "miastoId": 601
+  },
+  {
+    "nazwa": "blueCUBIX",
+    "miastoId": 462
+  },
+  {
+    "nazwa": "greenISODRIVE",
+    "miastoId": 871
+  },
+  {
+    "nazwa": "brownSPHERIX",
+    "miastoId": 850
+  },
+  {
+    "nazwa": "greenXLEEN",
+    "miastoId": 913
+  },
+  {
+    "nazwa": "greenCOMVOY",
+    "miastoId": 164
+  },
+  {
+    "nazwa": "blueCENTURIA",
+    "miastoId": 335
+  },
+  {
+    "nazwa": "brownOLUCORE",
+    "miastoId": 195
+  },
+  {
+    "nazwa": "brownBARKARAMA",
+    "miastoId": 675
+  },
+  {
+    "nazwa": "brownBULLJUICE",
+    "miastoId": 219
+  },
+  {
+    "nazwa": "blueTEMORAK",
+    "miastoId": 46
+  },
+  {
+    "nazwa": "blueKEGULAR",
+    "miastoId": 852
+  },
+  {
+    "nazwa": "greenSENMEI",
+    "miastoId": 454
+  },
+  {
+    "nazwa": "brownSOLGAN",
+    "miastoId": 529
+  },
+  {
+    "nazwa": "greenCALCU",
+    "miastoId": 878
+  },
+  {
+    "nazwa": "blueEVENTIX",
+    "miastoId": 245
+  },
+  {
+    "nazwa": "blueDATAGENE",
+    "miastoId": 386
+  },
+  {
+    "nazwa": "brownPRISMATIC",
+    "miastoId": 811
+  },
+  {
+    "nazwa": "blueZAPHIRE",
+    "miastoId": 504
+  },
+  {
+    "nazwa": "blueRONBERT",
+    "miastoId": 647
+  },
+  {
+    "nazwa": "greenZOLARITY",
+    "miastoId": 153
+  },
+  {
+    "nazwa": "greenKINETICUT",
+    "miastoId": 210
+  },
+  {
+    "nazwa": "greenOBLIQ",
+    "miastoId": 659
+  },
+  {
+    "nazwa": "blueICOLOGY",
+    "miastoId": 334
+  },
+  {
+    "nazwa": "brownISOPLEX",
+    "miastoId": 928
+  },
+  {
+    "nazwa": "brownDIGITALUS",
+    "miastoId": 417
+  },
+  {
+    "nazwa": "greenSTRALUM",
+    "miastoId": 351
+  },
+  {
+    "nazwa": "brownZENSURE",
+    "miastoId": 681
+  },
+  {
+    "nazwa": "greenOVIUM",
+    "miastoId": 854
+  },
+  {
+    "nazwa": "blueQUALITERN",
+    "miastoId": 113
+  },
+  {
+    "nazwa": "greenNIMON",
+    "miastoId": 905
+  },
+  {
+    "nazwa": "greenEWEVILLE",
+    "miastoId": 913
+  },
+  {
+    "nazwa": "brownGONKLE",
+    "miastoId": 281
+  },
+  {
+    "nazwa": "brownSTUCCO",
+    "miastoId": 451
+  },
+  {
+    "nazwa": "brownBICOL",
+    "miastoId": 762
+  },
+  {
+    "nazwa": "blueLOVEPAD",
+    "miastoId": 434
+  },
+  {
+    "nazwa": "brownCYCLONICA",
+    "miastoId": 72
+  },
+  {
+    "nazwa": "blueDOGNOSIS",
+    "miastoId": 612
+  },
+  {
+    "nazwa": "blueVERTON",
+    "miastoId": 673
+  },
+  {
+    "nazwa": "blueZIPAK",
+    "miastoId": 606
+  },
+  {
+    "nazwa": "greenCOMSTAR",
+    "miastoId": 21
+  },
+  {
+    "nazwa": "blueATGEN",
+    "miastoId": 186
+  },
+  {
+    "nazwa": "blueBESTO",
+    "miastoId": 927
+  },
+  {
+    "nazwa": "greenMUSAPHICS",
+    "miastoId": 544
+  },
+  {
+    "nazwa": "blueQUIZKA",
+    "miastoId": 448
+  },
+  {
+    "nazwa": "blueURBANSHEE",
+    "miastoId": 19
+  },
+  {
+    "nazwa": "greenEDECINE",
+    "miastoId": 483
+  },
+  {
+    "nazwa": "brownZYTRAX",
+    "miastoId": 545
+  },
+  {
+    "nazwa": "greenKAGE",
+    "miastoId": 715
+  },
+  {
+    "nazwa": "brownNSPIRE",
+    "miastoId": 871
+  },
+  {
+    "nazwa": "blueCOMVEYOR",
+    "miastoId": 332
+  },
+  {
+    "nazwa": "greenIMAGEFLOW",
+    "miastoId": 434
+  },
+  {
+    "nazwa": "greenXOGGLE",
+    "miastoId": 761
+  },
+  {
+    "nazwa": "blueCODAX",
+    "miastoId": 130
+  },
+  {
+    "nazwa": "blueCHILLIUM",
+    "miastoId": 160
+  },
+  {
+    "nazwa": "brownRENOVIZE",
+    "miastoId": 18
+  },
+  {
+    "nazwa": "greenINSOURCE",
+    "miastoId": 846
+  },
+  {
+    "nazwa": "greenGEOFORM",
+    "miastoId": 478
+  },
+  {
+    "nazwa": "greenINTERLOO",
+    "miastoId": 901
+  },
+  {
+    "nazwa": "brownSLOGANAUT",
+    "miastoId": 126
+  },
+  {
+    "nazwa": "brownOLYMPIX",
+    "miastoId": 591
+  },
+  {
+    "nazwa": "blueZOLAR",
+    "miastoId": 291
+  },
+  {
+    "nazwa": "greenAEORA",
+    "miastoId": 674
+  },
+  {
+    "nazwa": "brownSEQUITUR",
+    "miastoId": 110
+  },
+  {
+    "nazwa": "brownCOMVENE",
+    "miastoId": 66
+  },
+  {
+    "nazwa": "brownLINGOAGE",
+    "miastoId": 703
+  },
+  {
+    "nazwa": "blueVALPREAL",
+    "miastoId": 203
+  },
+  {
+    "nazwa": "brownNIXELT",
+    "miastoId": 718
+  },
+  {
+    "nazwa": "blueTROLLERY",
+    "miastoId": 918
+  },
+  {
+    "nazwa": "brownZENOLUX",
+    "miastoId": 805
+  },
+  {
+    "nazwa": "brownFANFARE",
+    "miastoId": 331
+  },
+  {
+    "nazwa": "brownLYRICHORD",
+    "miastoId": 573
+  },
+  {
+    "nazwa": "brownKINDALOO",
+    "miastoId": 693
+  },
+  {
+    "nazwa": "greenAMTAP",
+    "miastoId": 231
+  },
+  {
+    "nazwa": "greenXPLOR",
+    "miastoId": 429
+  },
+  {
+    "nazwa": "brownGREEKER",
+    "miastoId": 303
+  },
+  {
+    "nazwa": "greenZOINAGE",
+    "miastoId": 958
+  },
+  {
+    "nazwa": "greenISOTERNIA",
+    "miastoId": 320
+  },
+  {
+    "nazwa": "blueINSURON",
+    "miastoId": 517
+  },
+  {
+    "nazwa": "brownQUORDATE",
+    "miastoId": 789
+  },
+  {
+    "nazwa": "brownZYTRAC",
+    "miastoId": 743
+  },
+  {
+    "nazwa": "greenBIZMATIC",
+    "miastoId": 402
+  },
+  {
+    "nazwa": "greenELEMANTRA",
+    "miastoId": 2
+  },
+  {
+    "nazwa": "greenPARAGONIA",
+    "miastoId": 34
+  },
+  {
+    "nazwa": "greenVERTIDE",
+    "miastoId": 767
+  },
+  {
+    "nazwa": "brownEQUICOM",
+    "miastoId": 432
+  },
+  {
+    "nazwa": "greenCIPROMOX",
+    "miastoId": 249
+  },
+  {
+    "nazwa": "blueHARMONEY",
+    "miastoId": 356
+  },
+  {
+    "nazwa": "greenZIZZLE",
+    "miastoId": 146
+  },
+  {
+    "nazwa": "brownRODEOCEAN",
+    "miastoId": 120
+  },
+  {
+    "nazwa": "blueZILENCIO",
+    "miastoId": 934
+  },
+  {
+    "nazwa": "brownORBOID",
+    "miastoId": 773
+  },
+  {
+    "nazwa": "brownLIQUIDOC",
+    "miastoId": 146
+  },
+  {
+    "nazwa": "brownSECURIA",
+    "miastoId": 41
+  },
+  {
+    "nazwa": "brownVICON",
+    "miastoId": 418
+  },
+  {
+    "nazwa": "blueQABOOS",
+    "miastoId": 60
+  },
+  {
+    "nazwa": "greenQUINTITY",
+    "miastoId": 844
+  },
+  {
+    "nazwa": "brownWEBIOTIC",
+    "miastoId": 742
+  },
+  {
+    "nazwa": "greenEXTRAGEN",
+    "miastoId": 80
+  },
+  {
+    "nazwa": "blueTUBESYS",
+    "miastoId": 926
+  },
+  {
+    "nazwa": "greenTROPOLIS",
+    "miastoId": 628
+  },
+  {
+    "nazwa": "brownTURNABOUT",
+    "miastoId": 385
+  },
+  {
+    "nazwa": "greenSUREPLEX",
+    "miastoId": 34
+  },
+  {
+    "nazwa": "blueMEDCOM",
+    "miastoId": 839
+  },
+  {
+    "nazwa": "brownCOMBOGENE",
+    "miastoId": 533
+  },
+  {
+    "nazwa": "blueGINK",
+    "miastoId": 107
+  },
+  {
+    "nazwa": "greenZILLACON",
+    "miastoId": 244
+  },
+  {
+    "nazwa": "brownINTRADISK",
+    "miastoId": 376
+  },
+  {
+    "nazwa": "blueEPLOSION",
+    "miastoId": 908
+  },
+  {
+    "nazwa": "brownEYERIS",
+    "miastoId": 900
+  },
+  {
+    "nazwa": "brownEARTHMARK",
+    "miastoId": 917
+  },
+  {
+    "nazwa": "brownGORGANIC",
+    "miastoId": 175
+  },
+  {
+    "nazwa": "greenZILLANET",
+    "miastoId": 156
+  },
+  {
+    "nazwa": "blueZEDALIS",
+    "miastoId": 39
+  },
+  {
+    "nazwa": "greenKOZGENE",
+    "miastoId": 458
+  },
+  {
+    "nazwa": "blueGEEKWAGON",
+    "miastoId": 172
+  },
+  {
+    "nazwa": "greenENOMEN",
+    "miastoId": 417
+  },
+  {
+    "nazwa": "brownMOBILDATA",
+    "miastoId": 609
+  },
+  {
+    "nazwa": "brownGLASSTEP",
+    "miastoId": 621
+  },
+  {
+    "nazwa": "brownZEPITOPE",
+    "miastoId": 478
+  },
+  {
+    "nazwa": "brownMICROLUXE",
+    "miastoId": 795
+  },
+  {
+    "nazwa": "greenPLASMOS",
+    "miastoId": 57
+  },
+  {
+    "nazwa": "brownMULTIFLEX",
+    "miastoId": 582
+  },
+  {
+    "nazwa": "brownENJOLA",
+    "miastoId": 219
+  },
+  {
+    "nazwa": "blueJUNIPOOR",
+    "miastoId": 782
+  },
+  {
+    "nazwa": "greenVIOCULAR",
+    "miastoId": 692
+  },
+  {
+    "nazwa": "brownZAGGLE",
+    "miastoId": 273
+  },
+  {
+    "nazwa": "blueACCIDENCY",
+    "miastoId": 93
+  },
+  {
+    "nazwa": "greenACIUM",
+    "miastoId": 285
+  },
+  {
+    "nazwa": "greenFILODYNE",
+    "miastoId": 644
+  },
+  {
+    "nazwa": "blueGRACKER",
+    "miastoId": 264
+  },
+  {
+    "nazwa": "brownOPTIQUE",
+    "miastoId": 366
+  },
+  {
+    "nazwa": "greenZIORE",
+    "miastoId": 74
+  },
+  {
+    "nazwa": "brownEARWAX",
+    "miastoId": 179
+  },
+  {
+    "nazwa": "greenTERRAGO",
+    "miastoId": 709
+  },
+  {
+    "nazwa": "greenSCHOOLIO",
+    "miastoId": 409
+  },
+  {
+    "nazwa": "brownNUTRALAB",
+    "miastoId": 732
+  },
+  {
+    "nazwa": "brownZAGGLES",
+    "miastoId": 300
+  },
+  {
+    "nazwa": "brownMARTGO",
+    "miastoId": 80
+  },
+  {
+    "nazwa": "brownEMOLTRA",
+    "miastoId": 733
+  },
+  {
+    "nazwa": "blueMANGELICA",
+    "miastoId": 901
+  },
+  {
+    "nazwa": "greenIMAGINART",
+    "miastoId": 86
+  },
+  {
+    "nazwa": "greenXYQAG",
+    "miastoId": 196
+  },
+  {
+    "nazwa": "brownROOFORIA",
+    "miastoId": 176
+  },
+  {
+    "nazwa": "blueSAVVY",
+    "miastoId": 915
+  },
+  {
+    "nazwa": "blueBRAINCLIP",
+    "miastoId": 827
+  },
+  {
+    "nazwa": "greenVENOFLEX",
+    "miastoId": 671
+  },
+  {
+    "nazwa": "brownCOSMOSIS",
+    "miastoId": 639
+  },
+  {
+    "nazwa": "brownPEARLESEX",
+    "miastoId": 44
+  },
+  {
+    "nazwa": "brownECRATER",
+    "miastoId": 987
+  },
+  {
+    "nazwa": "greenARTIQ",
+    "miastoId": 287
+  },
+  {
+    "nazwa": "brownHATOLOGY",
+    "miastoId": 467
+  },
+  {
+    "nazwa": "blueTUBALUM",
+    "miastoId": 16
+  },
+  {
+    "nazwa": "brownCEMENTION",
+    "miastoId": 192
+  },
+  {
+    "nazwa": "blueTETAK",
+    "miastoId": 624
+  },
+  {
+    "nazwa": "greenZILLACTIC",
+    "miastoId": 540
+  },
+  {
+    "nazwa": "brownENORMO",
+    "miastoId": 891
+  },
+  {
+    "nazwa": "brownQUILK",
+    "miastoId": 34
+  },
+  {
+    "nazwa": "greenEARGO",
+    "miastoId": 438
+  },
+  {
+    "nazwa": "blueDECRATEX",
+    "miastoId": 452
+  },
+  {
+    "nazwa": "brownDELPHIDE",
+    "miastoId": 213
+  },
+  {
+    "nazwa": "brownZEAM",
+    "miastoId": 293
+  },
+  {
+    "nazwa": "brownSKINSERVE",
+    "miastoId": 173
+  },
+  {
+    "nazwa": "blueCRUSTATIA",
+    "miastoId": 667
+  },
+  {
+    "nazwa": "blueBUNGA",
+    "miastoId": 804
+  },
+  {
+    "nazwa": "brownRUBADUB",
+    "miastoId": 738
+  },
+  {
+    "nazwa": "blueMAGNEMO",
+    "miastoId": 903
+  },
+  {
+    "nazwa": "greenBYTREX",
+    "miastoId": 404
+  },
+  {
+    "nazwa": "brownFLUMBO",
+    "miastoId": 674
+  },
+  {
+    "nazwa": "blueXUMONK",
+    "miastoId": 785
+  },
+  {
+    "nazwa": "brownZILLAN",
+    "miastoId": 783
+  },
+  {
+    "nazwa": "greenHONOTRON",
+    "miastoId": 651
+  },
+  {
+    "nazwa": "brownHALAP",
+    "miastoId": 668
+  },
+  {
+    "nazwa": "blueCENTREGY",
+    "miastoId": 831
+  },
+  {
+    "nazwa": "blueNEOCENT",
+    "miastoId": 305
+  },
+  {
+    "nazwa": "greenORBEAN",
+    "miastoId": 115
+  },
+  {
+    "nazwa": "brownPLASMOX",
+    "miastoId": 637
+  },
+  {
+    "nazwa": "brownGEEKKO",
+    "miastoId": 984
+  },
+  {
+    "nazwa": "brownLYRIA",
+    "miastoId": 244
+  },
+  {
+    "nazwa": "blueARTWORLDS",
+    "miastoId": 234
+  },
+  {
+    "nazwa": "greenINTERFIND",
+    "miastoId": 225
+  },
+  {
+    "nazwa": "greenACCUPHARM",
+    "miastoId": 789
+  },
+  {
+    "nazwa": "blueAFFLUEX",
+    "miastoId": 405
+  },
+  {
+    "nazwa": "blueGEOFARM",
+    "miastoId": 895
+  },
+  {
+    "nazwa": "blueENDIPINE",
+    "miastoId": 546
+  },
+  {
+    "nazwa": "blueSPACEWAX",
+    "miastoId": 917
+  },
+  {
+    "nazwa": "brownCORMORAN",
+    "miastoId": 671
+  },
+  {
+    "nazwa": "greenCONFRENZY",
+    "miastoId": 972
+  },
+  {
+    "nazwa": "blueCOGENTRY",
+    "miastoId": 929
+  },
+  {
+    "nazwa": "brownFLEETMIX",
+    "miastoId": 26
+  },
+  {
+    "nazwa": "blueSURELOGIC",
+    "miastoId": 960
+  },
+  {
+    "nazwa": "blueGENEKOM",
+    "miastoId": 700
+  },
+  {
+    "nazwa": "greenLUXURIA",
+    "miastoId": 232
+  },
+  {
+    "nazwa": "greenHYDROCOM",
+    "miastoId": 464
+  },
+  {
+    "nazwa": "greenMEDIFAX",
+    "miastoId": 593
+  },
+  {
+    "nazwa": "brownMOTOVATE",
+    "miastoId": 183
+  },
+  {
+    "nazwa": "brownQUAREX",
+    "miastoId": 575
+  },
+  {
+    "nazwa": "blueISOSURE",
+    "miastoId": 608
+  },
+  {
+    "nazwa": "brownORBAXTER",
+    "miastoId": 907
+  },
+  {
+    "nazwa": "greenPORTICO",
+    "miastoId": 166
+  },
+  {
+    "nazwa": "blueCAXT",
+    "miastoId": 67
+  },
+  {
+    "nazwa": "greenSNOWPOKE",
+    "miastoId": 901
+  },
+  {
+    "nazwa": "greenPYRAMIA",
+    "miastoId": 938
+  },
+  {
+    "nazwa": "brownERSUM",
+    "miastoId": 354
+  },
+  {
+    "nazwa": "greenINCUBUS",
+    "miastoId": 603
+  },
+  {
+    "nazwa": "brownZAJ",
+    "miastoId": 243
+  },
+  {
+    "nazwa": "greenINSURITY",
+    "miastoId": 44
+  },
+  {
+    "nazwa": "greenOVATION",
+    "miastoId": 393
+  },
+  {
+    "nazwa": "greenSNACKTION",
+    "miastoId": 287
+  },
+  {
+    "nazwa": "blueRAMEON",
+    "miastoId": 292
+  },
+  {
+    "nazwa": "brownTETRATREX",
+    "miastoId": 850
+  },
+  {
+    "nazwa": "blueJASPER",
+    "miastoId": 103
+  },
+  {
+    "nazwa": "greenZEROLOGY",
+    "miastoId": 797
+  },
+  {
+    "nazwa": "blueQUOTEZART",
+    "miastoId": 473
+  },
+  {
+    "nazwa": "greenENTROFLEX",
+    "miastoId": 440
+  },
+  {
+    "nazwa": "blueFRANSCENE",
+    "miastoId": 125
+  },
+  {
+    "nazwa": "brownMOREGANIC",
+    "miastoId": 854
+  },
+  {
+    "nazwa": "greenEXTREMO",
+    "miastoId": 681
+  },
+  {
+    "nazwa": "brownKNOWLYSIS",
+    "miastoId": 739
+  },
+  {
+    "nazwa": "brownPHORMULA",
+    "miastoId": 504
+  },
+  {
+    "nazwa": "blueULTRIMAX",
+    "miastoId": 490
+  },
+  {
+    "nazwa": "brownCOMTENT",
+    "miastoId": 809
+  },
+  {
+    "nazwa": "greenCENTICE",
+    "miastoId": 569
+  },
+  {
+    "nazwa": "brownINVENTURE",
+    "miastoId": 786
+  },
+  {
+    "nazwa": "greenBIFLEX",
+    "miastoId": 221
+  },
+  {
+    "nazwa": "greenINTERODEO",
+    "miastoId": 988
+  },
+  {
+    "nazwa": "greenOCEANICA",
+    "miastoId": 408
+  },
+  {
+    "nazwa": "brownNEBULEAN",
+    "miastoId": 478
+  },
+  {
+    "nazwa": "brownIMKAN",
+    "miastoId": 718
+  },
+  {
+    "nazwa": "blueBALOOBA",
+    "miastoId": 812
+  },
+  {
+    "nazwa": "greenPROTODYNE",
+    "miastoId": 165
+  },
+  {
+    "nazwa": "greenSKYPLEX",
+    "miastoId": 10
+  },
+  {
+    "nazwa": "greenMAKINGWAY",
+    "miastoId": 583
+  },
+  {
+    "nazwa": "greenQUILCH",
+    "miastoId": 703
+  },
+  {
+    "nazwa": "brownSENMAO",
+    "miastoId": 488
+  },
+  {
+    "nazwa": "brownZANILLA",
+    "miastoId": 205
+  },
+  {
+    "nazwa": "blueZORROMOP",
+    "miastoId": 619
+  },
+  {
+    "nazwa": "blueFLEXIGEN",
+    "miastoId": 412
+  },
+  {
+    "nazwa": "blueIRACK",
+    "miastoId": 411
+  },
+  {
+    "nazwa": "brownCYTRAK",
+    "miastoId": 877
+  },
+  {
+    "nazwa": "brownPROXSOFT",
+    "miastoId": 809
+  },
+  {
+    "nazwa": "brownEXOSIS",
+    "miastoId": 558
+  },
+  {
+    "nazwa": "blueSILODYNE",
+    "miastoId": 403
+  },
+  {
+    "nazwa": "greenRADIANTIX",
+    "miastoId": 372
+  },
+  {
+    "nazwa": "blueSURETECH",
+    "miastoId": 996
+  },
+  {
+    "nazwa": "brownELECTONIC",
+    "miastoId": 320
+  },
+  {
+    "nazwa": "greenPARCOE",
+    "miastoId": 234
+  },
+  {
+    "nazwa": "brownPAPRIKUT",
+    "miastoId": 158
+  },
+  {
+    "nazwa": "greenDIGIAL",
+    "miastoId": 924
+  },
+  {
+    "nazwa": "blueTRASOLA",
+    "miastoId": 958
+  },
+  {
+    "nazwa": "greenASSURITY",
+    "miastoId": 889
+  },
+  {
+    "nazwa": "greenKOOGLE",
+    "miastoId": 700
+  },
+  {
+    "nazwa": "blueQUONATA",
+    "miastoId": 198
+  },
+  {
+    "nazwa": "greenUPLINX",
+    "miastoId": 14
+  },
+  {
+    "nazwa": "greenTECHTRIX",
+    "miastoId": 667
+  },
+  {
+    "nazwa": "blueANIXANG",
+    "miastoId": 572
+  },
+  {
+    "nazwa": "brownSULTRAXIN",
+    "miastoId": 405
+  },
+  {
+    "nazwa": "brownEXOVENT",
+    "miastoId": 77
+  },
+  {
+    "nazwa": "brownPYRAMIS",
+    "miastoId": 329
+  },
+  {
+    "nazwa": "blueCALCULA",
+    "miastoId": 71
+  },
+  {
+    "nazwa": "blueFURNAFIX",
+    "miastoId": 422
+  },
+  {
+    "nazwa": "brownOTHERSIDE",
+    "miastoId": 746
+  },
+  {
+    "nazwa": "greenPEARLESSA",
+    "miastoId": 157
+  }
+]

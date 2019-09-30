@@ -1,0 +1,50 @@
+Uzytkownik 125,250,500
+[
+  '{{repeat(125000, 125001)}}',
+  {
+ 	imie: '{{firstName()}}',
+    nazwisko: '{{surname()}}',
+    nrTelefonu: '{{phone("xxx-xxx-xxx")}}',
+    czasStart: '{{integer(1,16)}}:{{integer(10,39)}}:{{integer(10,59)}}',
+    czasStop: '{{integer(17,24)}}:{{integer(10,59)}}:{{integer(10,59)}}',
+    wiek: '{{integer(20,40)}}',
+    rowerId: '{{integer(1,1000)}}'
+  }
+ ]
+    
+***************************************************************************************
+
+	Miasta
+[
+  '{{repeat(125000, 125001)}}',
+  {
+    nazwa: '{{city()}}'
+  }
+ ]
+ 
+***************************************************************************************    
+
+	Stacje:
+	
+[
+  '{{repeat(125000, 125001)}}',
+  {
+    nazwa: '{{random("blue", "brown", "green")}}{{company().toUpperCase()}}',
+    miastoId: '{{integer(1,10000)}}'
+  }
+ ]
+ 
+***************************************************************************************
+
+	Rowery:
+[
+  '{{repeat(125000, 125001)}}',
+  {
+    lacznyCzas: '{{integer(40,500)}}',
+	rodzajId: '{{integer(1,4)}}',
+	stacjaId: '{{integer(1,10000)}}',
+	uszkodzeniaId: '{{integer(1,6)}}'
+  }
+]
+	
+	
